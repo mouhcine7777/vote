@@ -2,7 +2,6 @@ import { initializeApp } from "firebase/app";
 import { getDatabase } from "firebase/database";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAFILbquXJa7Ul8-CrvMj2hi4YR9QKdHa4",
     authDomain: "voting-2ee88.firebaseapp.com",
     projectId: "voting-2ee88",
     databaseURL: "https://voting-2ee88-default-rtdb.europe-west1.firebasedatabase.app/",
